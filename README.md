@@ -1,0 +1,2 @@
+# autopsy--curiosity--project--immolation-auction
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project: IMMOLATION AUCTION' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: [NONE]SKILLS: [deployment, system_design, monetization]METRICS:Coordination: 1Technical Complexity: 9Efficiency: 1Clarity: 1SUGGEST_UI: TrueSUGGESTORIGINAL ERROR LOGS:DeepSeek/AI model did not return 
